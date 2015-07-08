@@ -1,0 +1,30 @@
+{
+  "name": "mirage",
+  "version": "1.0.0",
+  "description": "Web application for the mirage box",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josecc/mirage.git"
+  },
+  "keywords": [
+    "Mirage",
+    "iptv"
+  ],
+  "author": "Jose Canahui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josecc/mirage/issues"
+  },
+  "homepage": "https://github.com/Josecc/mirage#readme",
+  "dependencies": {
+    "express": "^4.13.1"
+  }
+}
