@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/Josecc/mirage#readme",
   "dependencies": {
-    "express": "^4.13.1"
+    "express": "^4.13.1",
+    "stripe": "^3.6.0"
   }
 }
